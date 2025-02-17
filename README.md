@@ -1,10 +1,10 @@
-##Casting Studio Website
+Casting Studio Website
 
-#Overview
+Overview
 
 This project is a responsive website for a casting studio that provides services related to acting and dancing. The website includes multiple sections such as Home, Services, About Us, Gallery, Videos, Testimonials, and Contact Us. It also features a login and signup option for users.
 
-#Features
+Features
 
 Responsive Navigation Bar with multiple sections
 
@@ -16,9 +16,9 @@ Styled using external CSS for better readability and maintainability
 
 Google Fonts integration for enhanced typography
 
-#Technologies Used
+Technologies Used
 
-HTML
+HTML5
 
 CSS3
 
