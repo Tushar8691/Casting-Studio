@@ -1,0 +1,113 @@
+body {
+    background: url("casting1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.left {
+    display: inline-block;
+    /* border: 2px solid rgb(172, 19, 19); */
+    position: absolute;
+    left: 27px;
+    top: 10px;
+}
+
+.left img {
+    width: 65px;
+    margin: 16px 14px;
+}
+
+.mid {
+    /* border: 2px solid blue; */
+    display: block;
+    width: 65%;
+    margin: 62px auto;
+    text-align: center;
+    font-family: "Macondo", cursive;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.navbar li a {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 34px 23px;
+}
+
+.navbar li a:hover,
+.navbar li a.active {
+    text-decoration: underline;
+    color: grey;
+}
+
+.right {
+    /* border: 2px solid rgb(186, 23, 231); */
+    position: absolute;
+    right: 42px;
+    top: 14px;
+    font-family: "Macondo", cursive;
+}
+
+.navbar1 li {
+    display: inline-block;
+    font-size: 15px;
+
+}
+
+.navbar1 li a {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 20px 2px;
+}
+
+.navbar1 li a:hover {
+    text-decoration: underline;
+    color: grey;
+}
+
+.container {
+    /* border: 4px solid rgb(196, 31, 31); */
+    margin: 288px 25px;
+    padding: 42px 47px;
+    border-radius: 31px;
+    width: 32%;
+    position: absolute;
+    top: 30px;
+    right: 34px;
+    color: rgb(236, 233, 228);
+    font-family: "Dancing Script", cursive;
+}
+
+
+.formgroup input {
+    text-align: center;
+
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 53px;
+}
+
+.container h2 {
+    text-align: center;
+    color: red;
+    font-size: 60px
+}
+
+.container button {
+    display: block;
+    margin: 5PX auto;
+    width: 40%;
+    padding: 13px 2px;
+    border-radius: 40PX;
+    background-color: red;
+    font-family: "Macondo", cursive;
+    font-size: 18px;
+}
